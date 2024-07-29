@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @YO3LNK
+- 👀 I’m a Ham Radio, licensed on 18/07/2024
+- 🌱 I’m currently learning: C/C++; Java; JS/TS; Linux
+- 📫 How to reach me: yo3lnk@hotmail.com
+- ⚡ Fun fact: I learned for my exam in only one month! And I passed first try.
